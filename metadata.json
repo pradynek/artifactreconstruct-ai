@@ -1,0 +1,7 @@
+{
+  "name": "ArtifactReconstruct AI",
+  "description": "An AI-powered historical preservation tool that analyzes damaged artifacts and generates photorealistic digital reconstructions of their original and restored states.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
